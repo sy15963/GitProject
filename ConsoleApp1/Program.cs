@@ -7,6 +7,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             int count = 10;
+            int count = 20;
 
             Console.WriteLine("Hello World!");
         }
